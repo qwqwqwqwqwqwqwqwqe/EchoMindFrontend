@@ -1,0 +1,11 @@
+node_modules/
+dist/
+.idea/
+.vscode/
+.DS_Store
+*.log
+.env
+
+# Locally generated synthetic review data
+public/routing-candidates.jsonl
+public/passage-review.json
